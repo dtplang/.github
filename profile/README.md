@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Github Stats](https://github-readme-stats.vercel.app/api?username=xpeng722&show_icons=true)
 
 <a title="Hits" target="_blank" href="https://github.com/dtplang/.github"><img src="https://hits.b3log.org/dtplang/.github.svg"></a>
 
